@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "target-number-finder",
+      "title": "Algorithmic Calculator - Target Number Finder",
+      "description": "Use loops and conditionals to find two numbers that add up to a target.",
+      "path": "assignments/target-number-finder",
+      "dueDate": "2026-07-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
